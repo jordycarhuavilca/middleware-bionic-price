@@ -1,0 +1,19 @@
+Nombre,Precio,Peso,Tienda,Id,FechaCreacion
+Arroz,4.84,1.0,Wong,1,2025-02-16
+Pan,3.09,0.5,Wong,2,2025-02-16
+Pollo,14.19,1.5,Wong,3,2025-02-16
+Huevos,9.69,1.0,Wong,4,2025-02-16
+Aceite vegetal,11.99,1.0,Wong,5,2025-02-16
+Azúcar,4.19,1.0,Wong,6,2025-02-16
+Arroz,4.14,1.0,Plaza Vea,7,2025-02-16
+Pan,2.39,0.5,Plaza Vea,8,2025-02-16
+Pollo,11.69,1.5,Plaza Vea,9,2025-02-16
+Huevos,7.79,1.0,Plaza Vea,10,2025-02-16
+Aceite vegetal,9.59,1.0,Plaza Vea,11,2025-02-16
+Azúcar,3.69,1.0,Plaza Vea,12,2025-02-16
+Arroz,5.44,1.0,Vivanda,13,2025-02-16
+Pan,3.19,0.5,Vivanda,14,2025-02-16
+Pollo,16.19,1.5,Vivanda,15,2025-02-16
+Huevos,10.99,1.0,Vivanda,16,2025-02-16
+Aceite vegetal,13.89,1.0,Vivanda,17,2025-02-16
+Azúcar,4.79,1.0,Vivanda,18,2025-02-16

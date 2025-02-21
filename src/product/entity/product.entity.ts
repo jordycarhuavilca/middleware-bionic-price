@@ -3,22 +3,26 @@ import { Document } from 'mongoose';
 
 export type ProductDocument = Product & Document;
 
-@Schema({ timestamps: true })
+@Schema()
 export class Product {
+  
   @Prop({ required: true })
-  id: string;
+  precio: string;
 
   @Prop({ required: true })
   nombre: string;
 
   @Prop({ required: true })
-  descripcion: string;
+  peso: string;
 
   @Prop({ required: true })
-  precio: string;
+  tienda: string;
 
   @Prop({ required: true })
-  fecha: string;
+  id: string;
+
+  @Prop({ required: true })
+  fechacreacion: string;
 }
 
 export const ProductSchema = SchemaFactory.createForClass(Product);
